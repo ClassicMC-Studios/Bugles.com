@@ -1,19 +1,20 @@
 /*Color*/
-.bc-black,.spqr-hover-black:hover{background-color: black!important;}
-.bc-gold,.spqr-hover-gold:hover{background-color: gold!important;}
-.bc-goldenrod,.spqr-hover-goldenrod:hover{background-color: goldenrod!important;}
-.bc-green,.spqr-hover-green:hover{background-color:#4CAF50!important;color: white !important;}
-.bc-grass,.spqr-hover-grass:hover{background-color: rgb(80, 221, 80)!important;}
-.bc-sky,.spqr-hover-sky:hover{background-color: skyblue!important;}
-.bc-link,.spqr-hover-link:hover{background-color: rgb(0, 0, 199);}
+.bc-black,.bc-hover-black:hover{background-color: black!important;}
+.bc-white,.bc-hover-white:hover{background-color: white!important;}
+.bc-gold,.bc-hover-gold:hover{background-color: gold!important;}
+.bc-goldenrod,.bc-hover-goldenrod:hover{background-color: goldenrod!important;}
+.bc-green,.bc-hover-green:hover{background-color:#4CAF50!important;color: white !important;}
+.bc-grass,.bc-hover-grass:hover{background-color: rgb(80, 221, 80)!important;}
+.bc-sky,.bc-hover-sky:hover{background-color: skyblue!important;}
+.bc-link,.bc-hover-link:hover{background-color: rgb(0, 0, 199);}
 /*Text Color*/
-.bc-text-black,.spqr-hover-text-black:hover{color: black!important;}
-.bc-text-gold,.spqr-hover-text-gold:hover{color: gold!important;}
-.bc-text-goldenrod,.spqr-hover-text-goldenrod:hover{color: goldenrod!important;}
-.bc-text-green,.spqr-hover-text-green:hover{color:#4CAF50!important;}
-.bc-text-grass,.spqr-hover-text-grass:hover{color: rgb(80, 221, 80)!important;}
-.bc-text-sky,.spqr-hover-text-sky:hover{color: skyblue!important;}
-.bc-text-link,.spqr-hover-text-link:hover{color: rgb(0, 0, 199)!important;text-decoration: underline!important;}
+.bc-text-black,.bc-hover-text-black:hover{color: black!important;}
+.bc-text-gold,.bc-hover-text-gold:hover{color: gold!important;}
+.bc-text-goldenrod,.bc-hover-text-goldenrod:hover{color: goldenrod!important;}
+.bc-text-green,.bc-hover-text-green:hover{color:#4CAF50!important;}
+.bc-text-grass,.bc-hover-text-grass:hover{color: rgb(80, 221, 80)!important;}
+.bc-text-sky,.bc-hover-text-sky:hover{color: skyblue!important;}
+.bc-text-link,.bc-hover-text-link:hover{color: rgb(0, 0, 199)!important;text-decoration: underline!important;}
 /*Border Color*/
 .bc-bdc{border-color: black;}
 .bc-bdc-white{border-color: white;}

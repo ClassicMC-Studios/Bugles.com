@@ -1,11 +1,14 @@
 import './App.css';
 import Header from './elements/header';
-import InfoBar from './elements/panels/panel1.jsx';
+import Body from './elements/body';
+import InfoBar from './elements/panel';
+
 function App() {
   return (
     <div className="App">
-      <InfoBar/>
       <Header/>
+      <Body/>
+      <InfoBar/>
     </div>
   );
 }

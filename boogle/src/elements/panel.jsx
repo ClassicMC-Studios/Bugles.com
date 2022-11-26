@@ -1,6 +1,6 @@
-import logo from './logo.svg';
-import './w3.css';
-import './bc.css';
+import logo from './panels/logo.svg';
+import './panels/w3.css';
+import './panels/bc.css';
 function InfoBar(){
     return(
         <div className='w3-container w3-right w3-border w3-border-black w3-margin' style={{width:"20.5%"}}>
